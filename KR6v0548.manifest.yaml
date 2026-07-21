@@ -18,7 +18,7 @@ editions:
 - short: GA
 assets:
   parts:
-  - {seq: 0, filename: KR6v0548_000.yaml, hash: 'sha256:ecc8ac069ac10fb373979b2c3d790189ecbb9c7f2b839ccf5b8803656ea917a8'}
+  - {seq: 0, filename: KR6v0548_000.yaml, hash: 'sha256:79585086a4600306723f3b0b97448cbbdf705735c17cde45f08fb093f14d5558'}
   - {seq: 1, filename: KR6v0548_001.yaml, hash: 'sha256:65b2eb9ea3835b6144f951b30a977bd151a602e39c0fec025300836428a3e7de'}
   - {seq: 2, filename: KR6v0548_002.yaml, hash: 'sha256:6ce6773e22ca77f30f8c7bbccf610a0d578fbda53782362fbe0bf695a3c0effd'}
   - {seq: 3, filename: KR6v0548_003.yaml, hash: 'sha256:ff61d28f5c655d99b1843364729645b025c4199e79b4b4e63e35c192ae7804a3'}
@@ -28,7 +28,7 @@ assets:
   - {seq: 7, filename: KR6v0548_007.yaml, hash: 'sha256:c91d182887cf7fe2472c08f0484f6312447da6c675ecd57c7e6229ec8b637c57'}
   - {seq: 8, filename: KR6v0548_008.yaml, hash: 'sha256:22553bc27ed8529621d6a81d8d0a4145da1e00bb07a7690f99d001f5b8f965e3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0548_000.markers.yaml, hash: 'sha256:fc5cb29cdbcbc36deb8d85576a8a579ed45c5c5f4ffc12702254a8f66fb4888e'}
+  - {seq: 0, role: markers, filename: assets/KR6v0548_000.markers.yaml, hash: 'sha256:095d3488775810a3217c68fb2990f8c6ac62d75fb68eb3250098e9e47ef8cc57'}
   - {seq: 1, role: markers, filename: assets/KR6v0548_001.markers.yaml, hash: 'sha256:d0fe17a8410bc4676d9061a1028f2543b23b63608d7a76231b690433c49ed476'}
   - {seq: 2, role: markers, filename: assets/KR6v0548_002.markers.yaml, hash: 'sha256:e78643d046ff0a8a3ae984418ce554cd864cbc5dfa97b3b155afd8f2265333d6'}
   - {seq: 3, role: markers, filename: assets/KR6v0548_003.markers.yaml, hash: 'sha256:adc7c51ad6ea3e14320d2594eaaa63d4b28ea72f3e8b876b7c590e152616174f'}
@@ -42,7 +42,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0548_GA_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 卷首
@@ -52,7 +52,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0548_GA_000-mulu-2
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -62,7 +62,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0548_GA_000-mulu-3
     span:
-    - front
+    - body
     - 0
     - 0
   label: 續脩黃檗山誌序
@@ -72,7 +72,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0548_GA_000-mulu-4
     span:
-    - front
+    - body
     - 486
     - 486
   label: 黃檗重脩寺誌序
@@ -82,7 +82,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0548_GA_000-mulu-5
     span:
-    - front
+    - body
     - 937
     - 937
   label: 黃檗山續誌序
@@ -92,7 +92,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0548_GA_000-mulu-6
     span:
-    - front
+    - body
     - 1476
     - 1476
   label: 黃檗山寺志序
@@ -102,7 +102,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0548_GA_000-mulu-7
     span:
-    - front
+    - body
     - 2029
     - 2029
   label: 黃檗寺志序
@@ -112,7 +112,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0548_GA_000-mulu-8
     span:
-    - front
+    - body
     - 2771
     - 2771
   label: 黃檗山寺志序
@@ -122,7 +122,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0548_GA_000-mulu-9
     span:
-    - front
+    - body
     - 3086
     - 3086
   label: 補錄：叙重脩黃檗山寺志
@@ -132,7 +132,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0548_GA_000-mulu-10
     span:
-    - front
+    - body
     - 3575
     - 3575
   label: 凡例
@@ -142,7 +142,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0548_GA_000-mulu-11
     span:
-    - front
+    - body
     - 4529
     - 4529
   label: 黃檗斷際希運禪師一派源流
@@ -152,7 +152,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0548_GA_000-mulu-12
     span:
-    - front
+    - body
     - 4640
     - 4640
   label: 黃檗傳法法派
@@ -162,7 +162,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0548_GA_000-mulu-13
     span:
-    - front
+    - body
     - 4646
     - 4646
   label: 明第一代黃檗開法圓悟密雲祖師源流法派
@@ -172,7 +172,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0548_GA_000-mulu-14
     span:
-    - front
+    - body
     - 4684
     - 4684
   label: 清第四十代住持開法達光道暹禪師續立法派
@@ -182,7 +182,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0548_GA_000-mulu-15
     span:
-    - front
+    - body
     - 4723
     - 4723
   label: 黃檗剃度宗派
@@ -192,7 +192,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0548_GA_000-mulu-16
     span:
-    - front
+    - body
     - 4729
     - 4729
   label: 明第一代黃檗開山賜紫正圓中天祖師剃度宗派
@@ -202,7 +202,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0548_GA_000-mulu-17
     span:
-    - front
+    - body
     - 4781
     - 4781
   label: 明第三代重興主持開法隆琦隱元祖師續派
@@ -212,7 +212,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0548_GA_000-mulu-18
     span:
-    - front
+    - body
     - 4815
     - 4815
   label: 清四十代住持宏光道暹禪師又續
@@ -222,7 +222,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0548_GA_000-mulu-19
     span:
-    - front
+    - body
     - 4860
     - 4860
   label: 總目
@@ -232,7 +232,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0548_GA_000-mulu-20
     span:
-    - front
+    - body
     - 5154
     - 5154
   label: 山圖
@@ -6758,7 +6758,7 @@ table_of_contents:
   label: 隱祖靈蹟
   type: mulu
   level: 1
-hash: sha256:1c5576deaeef2bb02f69d293e0964197d0498b3c846be9ec2eeda573076946e3
+hash: sha256:b69b1c8b92e692d1e70fa72c57acca581336b2d852a68eb9d1a132cac4fca997
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
